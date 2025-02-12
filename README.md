@@ -18,4 +18,4 @@ There are 12 Excel files in total which include:
 
 5. Sequential Learning and 1-shot approach results for Problem 2 (VRP with Break Problem)
 
-
+For citation, please refer to the correspond article: Vu, N. G. H., Wang, K., & Wang, G. G. (2025). Effective prompting with ChatGPT for problem formulation in engineering optimization. Engineering Optimization, 1–18. https://doi.org/10.1080/0305215X.2025.2450686
